@@ -1,2 +1,3 @@
 # clueless
-I'm not sure what I'm doing 
+I'm not sure what I'm doing. 
+My name is Brittanie. 
